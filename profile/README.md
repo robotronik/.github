@@ -19,9 +19,10 @@ Nous nous qualifions également pour la **NXPCup**, une compétition internation
 ## 🛠️ Nos Activités
 
 - **Ateliers de robotique et d'électronique** : Pour apprendre la construction et la programmation de robots.
-- **Conférences** : Présentations par des experts en robotique.
-- **Compétitions internes** : Pour tester les robots développés par nos membres.
+- **Conférences** : Présentations par des experts en robotique (avec tout humilité biensûr!)
+- **Compétitions internes** : Pour tester les robots développés par nos membres (avec des projets d'initiation et autres des défis/challenges)
 - **Participation à des compétitions externes** : Comme la CDFR et la NXPCup.
+- **Réparation** : Notre association répare aussi vos objets ! (Téléphone, ordinateur, etc).
 
 ## 🤝 Rejoignez-Nous
 
@@ -32,9 +33,9 @@ Si vous êtes étudiant ou diplômé de Grenoble INP - Phelma et passionné par 
 Au sein de l'association, nos membres développent des compétences variées :
 
 - Mécanique
-- Électronique
+- Électronique (Kicad, schémas et conception de carte)
 - Soudure
-- Conception assistée par ordinateur
+- Conception assistée par ordinateur (Fusion 360)
 - Travail d'équipe
 - Communication
 
@@ -51,5 +52,5 @@ Ces compétences sont renforcées à travers nos évènements, activités et con
 
 ---
 
-![Robotronik 2022-2023](lien_vers_image)  <!-- Remplacer 'lien_vers_image' par l'URL de l'image de la Figure 1 -->
+![Robotronik 2022-2023]([lien_vers_image](https://robotronik.fr/ressources/background_members_2023.jpg))
 
