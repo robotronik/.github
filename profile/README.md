@@ -52,5 +52,5 @@ Ces compétences sont renforcées à travers nos évènements, activités et con
 
 ---
 
-![Robotronik 2022-2023]([[lien_vers_image](https://robotronik.fr/ressources/background_members_2023.jpg)](https://robotronik.fr/ressources/background_members_2023.jpg))
+![Robotronik 2022-2023](background_members_2023.jpg)
 
