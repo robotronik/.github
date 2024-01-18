@@ -2,7 +2,7 @@
 
 # 🤖 Robotronik Phelma
 
-Bienvenue sur le profil GitHub de **Robotronik Phelma** 🎓, l'association de robotique de l'école d'ingénieurs Grenoble INP - Phelma. Fondée en 2008, notre association compte aujourd'hui une vingtaine de membres passionnés, composés d'étudiants et de diplômés 🎉.
+Bienvenue sur le profil GitHub de **Robotronik Phelma** 🎓, l'association de robotique de l'école d'ingénieurs Grenoble INP - Phelma. Fondée en 2004, notre association compte aujourd'hui une vingtaine de membres passionnés, composés d'étudiants et de diplômés 🎉.
 
 ## 🎯 Objectifs
 
