@@ -1,4 +1,4 @@
-![Robotronik](logonoir.png)
+![Robotronik](/logonoir.png)
 
 # 🤖 Robotronik Phelma
 
@@ -54,5 +54,5 @@ Ces compétences sont renforcées à travers nos évènements, activités et con
 
 ---
 
-![Robotronik 2022-2023](background_members_2023.jpg)
+![Robotronik 2022-2023](/background_members_2023.jpg)
 
