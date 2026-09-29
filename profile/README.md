@@ -54,5 +54,5 @@ Ces compétences sont renforcées à travers nos évènements, activités et con
 
 ---
 
-![Robotronik 2022-2023](/profile/background_members_2023.jpg)
+![Robotronik CDFR 2026](/profile/Photo podium CDFR Robotronik(Crédit photo Planète Sciences).jpg)
 
